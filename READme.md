@@ -7,7 +7,7 @@ supposed to write a weather app using Openweather API.
 ```bash
     node weather.js [city-names]
 ```
-## Prerequisite 
+## Steps to follow. 
  > * Clone this repo 
  > * Register at https://openweathermap.org/api at get an API key
  > * make a file name api.json  and put the api key in that file.
