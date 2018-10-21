@@ -9,7 +9,7 @@ supposed to write a weather app using Openweather API.
 ```
 ## Steps to follow. 
  > * Clone this repo 
- > * Register at https://openweathermap.org/api at get an API key
+ > * Register at https://openweathermap.org/api and get an API key
  > * make a file name api.json  and put the api key in that file.
  > * Run the command node weather.js [city-names]
 
