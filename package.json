@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "version": "0.0.1",
+  "description": "Node Based command line app that fetches weather info from openweather API ",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnjunaid/weatherapp.git"
+  },
+  "keywords": [
+    "NodeWeatherApp",
+    "commandLineWeatherTool"
+  ],
+  "author": "osama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibnjunaid/weatherapp/issues"
+  },
+  "homepage": "https://github.com/ibnjunaid/weatherapp#readme"
+}
