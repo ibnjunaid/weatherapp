@@ -31,11 +31,13 @@ function weather(loc)
 			console.error(error.message);
 		}
 }
-
-
-loc = process.argv.slice(2);
-
-loc.forEach(weather);
-
-//weather(loc);
+if(process.argv.length >2)
+{
+	loc = process.argv.slice(2);
+	loc.forEach(weather);
+}
+else
+{
+	console.log("Usage: weather.js [city-Name]");
+}
 
